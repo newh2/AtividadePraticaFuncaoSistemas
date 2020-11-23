@@ -1,8 +1,6 @@
-## Atividade Pratica Função Sistemas
+# Atividade Pratica Função Sistemas! 
 
-## Sou estudante, programador e amante dos animais!!
-
-# Adicionar campo CPF no formulário, respeitando as seguintes premissas:
+## Adicionar campo CPF no formulário, respeitando as seguintes premissas:
 
 -  O campo deverá seguir o padrão visual dos demais campos da tela
 -  Preenchimento do campo é obrigatório
@@ -14,7 +12,7 @@
 
 <br></br>
 
-# Como foi feito:
+## Como foi feito:
 
 - Foi criado o campo no sql utilizando o script: 
   ALTER TABLE CLIENTES ADD CPF VARCHAR(14)
@@ -25,6 +23,7 @@
 - Criação do campo utilizando a regra do bootstrap para colunas
 - Formatação do campo CPF utilizando JavaScript
 
+<br></br>
 ## Stacks utilizadas:
 
 <img align="left" alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
